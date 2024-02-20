@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HrELP.Presentation
+build_property.RootNamespace = HrELP.Presentation
+build_property.ProjectDir = /Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Login/CreatePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQ3JlYXRlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Login/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Login/Error403.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vRXJyb3I0MDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Login/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/AddPersonnel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9BZGRQZXJzb25uZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/AdvanceRequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9BZHZhbmNlUmVxdWVzdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/ExpenceRequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9FeHBlbmNlUmVxdWVzdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/GetEmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9HZXRFbXBsb3llZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/LeaveRequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9MZWF2ZVJlcXVlc3REZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/ListAdvanceRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9MaXN0QWR2YW5jZVJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/ListExpenseRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9MaXN0RXhwZW5zZVJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/ListLeaveRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9MaXN0TGVhdmVSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/PersonelDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9QZXJzb25lbERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Manager/RequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9SZXF1ZXN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Personnel/AdvanceRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29ubmVsL0FkdmFuY2VSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Personnel/CreateLeaveRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29ubmVsL0NyZWF0ZUxlYXZlUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Personnel/FileARequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29ubmVsL0ZpbGVBUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Personnel/ListAdvanceRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29ubmVsL0xpc3RBZHZhbmNlUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Personnel/ListExpenseRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29ubmVsL0xpc3RFeHBlbnNlUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Personnel/ListLeaveRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29ubmVsL0xpc3RMZWF2ZVJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ceylankeskin/Desktop/Projeler/HrELP-Project/HrELP-Project/HrELP.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
